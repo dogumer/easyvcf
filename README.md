@@ -4,6 +4,7 @@ Converts contacts' information in csv file
 #### Advantages
 - Saves a lot of time for user
 - Prevents human-made errors Ex. Entering the wrong number
+- Corrects numbers which doesn't start with 0
 
 ## How To Install
 In terminal: `pip install easyvcf` <br>
